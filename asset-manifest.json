@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/adcare3/static/css/main.f49970b0.css",
+    "main.js": "/adcare3/static/js/main.91b79ad2.js",
+    "static/media/balloon.png": "/adcare3/static/media/balloon.f07db77472bdacdf175c.png",
+    "static/media/maison.png": "/adcare3/static/media/maison.faa45850dda1ac47bfb5.png",
+    "static/media/Los-Andes-Lota-Grotesque-Alt-Regular.ttf": "/adcare3/static/media/Los-Andes-Lota-Grotesque-Alt-Regular.996f724df5caf8b6aed8.ttf",
+    "static/media/BG-logo-blue.svg": "/adcare3/static/media/BG-logo-blue.b2e2896f24b381b820ae01592cc90e4d.svg",
+    "index.html": "/adcare3/index.html",
+    "main.f49970b0.css.map": "/adcare3/static/css/main.f49970b0.css.map",
+    "main.91b79ad2.js.map": "/adcare3/static/js/main.91b79ad2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49970b0.css",
+    "static/js/main.91b79ad2.js"
+  ]
+}
